@@ -1,2 +1,2 @@
 # ICES2017
-Using the end-to-end model Atlantis to test the performance of EwE
+Presentations given at the ICES conference in Miami 2017.
